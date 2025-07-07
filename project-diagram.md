@@ -39,4 +39,4 @@
 - profit
 
 ### Mindset
-The application runs on the given context via the environment variables, which dictate on which exchange the trader/signal bot is running again, but also which pair is should trade/send signals from.
+The application runs on the given context via the environment variables, which dictate on which exchange the trader/signal bot is running on, but also which pair is should trade/send signals from, trade volume, settings for the indicators, and other settings.
